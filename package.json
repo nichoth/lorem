@@ -1,6 +1,6 @@
 {
   "name": "@nichoth/lorem",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Print a paragraph or lorem ipsum to stdout",
   "main": "index.js",
   "bin": {
