@@ -4,7 +4,7 @@
   "description": "Print a paragraph or lorem ipsum to stdout",
   "main": "index.js",
   "bin": {
-    "lorem": "index.js"
+    "lorem": "node index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
