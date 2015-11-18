@@ -1,0 +1,28 @@
+{
+  "name": "@nichoth/lorem",
+  "version": "0.0.0",
+  "description": "Print a paragraph or lorem ipsum to stdout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nichoth/lorem.git"
+  },
+  "keywords": [
+    "lorem",
+    "ipsum",
+    "filler",
+    "command",
+    "cli",
+    "command",
+    "line"
+  ],
+  "author": "Nick Thomas <nichoth@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nichoth/lorem/issues"
+  },
+  "homepage": "https://github.com/nichoth/lorem#readme"
+}
